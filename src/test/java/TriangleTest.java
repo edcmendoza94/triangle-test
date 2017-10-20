@@ -1,6 +1,5 @@
 import junit.framework.TestCase;
 
-//Herp
 public class TriangleTest extends TestCase {
     public void testConstructor() {
         Triangle illuminati = new Triangle(3,5,7);
